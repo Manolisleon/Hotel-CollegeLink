@@ -1,2 +1,2 @@
 # Hotel-CollegeLink
-This is a project who i build for CollegeLink academy 
+This is a project , that I have built during my learning in CollegeLink Academy!
